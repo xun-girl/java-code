@@ -73,16 +73,16 @@ java平台的企业版，以企业为环境开发的应用程序的解决方案
 
 目前主流的Java环境
 
-| JDK系列（Sun）命令行
-Java WorkShop（Sun）	
-Visual CAFÉ (Symantec)
-JBuilder (Borland)
-Visual  J++ (MicroSoft)
-Java  Studio (Sun)
-Jdeveloper (Oracle)
-Visual  Age  for  Java (IBM)
-Code Warrior Professional (Metrowerks) |
-| ------------------------------------------------------------ |
+| JDK系列（Sun）命令行                   |
+| -------------------------------------- |
+| Java WorkShop（Sun）                   |
+| Visual CAFÉ (Symantec)                 |
+| JBuilder (Borland)                     |
+| Visual  J++ (MicroSoft)                |
+| Java  Studio (Sun)                     |
+| Jdeveloper (Oracle)                    |
+| Visual  Age  for  Java (IBM)           |
+| Code Warrior Professional (Metrowerks) |
 
 # Java虚拟机
 
