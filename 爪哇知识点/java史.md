@@ -71,6 +71,19 @@ java的精简版
 
 java平台的企业版，以企业为环境开发的应用程序的解决方案
 
+目前主流的Java环境
+
+| JDK系列（Sun）命令行
+Java WorkShop（Sun）	
+Visual CAFÉ (Symantec)
+JBuilder (Borland)
+Visual  J++ (MicroSoft)
+Java  Studio (Sun)
+Jdeveloper (Oracle)
+Visual  Age  for  Java (IBM)
+Code Warrior Professional (Metrowerks) |
+| ------------------------------------------------------------ |
+
 # Java虚拟机
 
 大部分计算机语言都先进行编译或者解释之后才能在计算机上运行，例如C/C++属于编译型语言，而Python属于解释型语言。但是Java程序(.java)比较特殊，它是先经过编译的过程，然后通过解释器在计算机上运行。经过编译器之后java文件会被转成平台无关的机器码（这也是java具有平台无关性的原因之一），java中称之为字节码(byte-codes)后缀名为`.class`。然后通过java解释器运行字节码
