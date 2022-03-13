@@ -19,7 +19,7 @@ Java的名字来源于太平洋上盛产咖啡的爪哇岛（java)
 
 # Java语言特点
 
-Java is a simple,object-oriented, distributed, interpreted, robust, secure, architecture-neutral, portable, high-performance, multi-threaded, dynamic language.
+Java is a simple,object-oriented, distributed, interpreted, robust, secure, architecture-neutral, portable, high-performance, multi-threaded, dynamic language.
 
 Java 是一种简单的、面向对象的、分布式的、解释型的、可靠的、安全的、平台无关性的、可移植的、高性能的、多线程的、动态的语言。
 
@@ -71,10 +71,11 @@ java的精简版
 
 java平台的企业版，以企业为环境开发的应用程序的解决方案
 
-目前主流的Java环境
 
-| JDK系列（Sun）命令行                   |
-| -------------------------------------- |
+
+| 目前主流的Java环境         |
+| --------------------------------------
+| JDK系列（Sun）命令行  
 | Java WorkShop（Sun）                   |
 | Visual CAFÉ (Symantec)                 |
 | JBuilder (Borland)                     |
