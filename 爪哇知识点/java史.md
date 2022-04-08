@@ -109,7 +109,7 @@ Java语言可以编写两种类型的程序，Application(应用程序)和Applet
 
 # Hello World
 
-以上就是Java的历史和概述，下面让我们来杯咖啡吧
+以上就是Java的历史和概述，下面让我们来杯印尼岛上的咖啡吧
 
 ```java
 public class helloworld{
