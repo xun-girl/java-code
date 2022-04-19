@@ -29,7 +29,7 @@ public class Boy {
        return name;
     }
   
-    public String getIdNum(){
+    public String getIdNum(){//IdNum的可读属性
        return idNum;
     }
   
@@ -41,10 +41,10 @@ public class Boy {
        name = newName;
     }
 
-    public void setIdNum( String newId){
+    public void setIdNum( String newId){//IdNum的可写属性
        idNum = newId;//这里提示一个小细节 就是this.idNum = idNum,形参设定为idNum
     }
-}//创建一对赋取值方法，即set和get
+}//创建一对赋取值方法，即set和get，即三个私有字段的可读(get)和可写(set)属性
 /**输出结果：
  * Name : James Age : 20
  * 
