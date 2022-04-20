@@ -31,15 +31,5 @@ public class Tom extends Boy{
         System.out.println("执行子类构造");
         //子类必须调用父类的构造方法，写了super则用，不写则赠送一个super但是只能调用无参
         //综上所述，super只能有一个，且位置也必须打头
-
-    }
-
-    public void method1() {
-    }
-
-    public void methodfu() {
-    }
-
-    public void methodzi() {
     }
 }
