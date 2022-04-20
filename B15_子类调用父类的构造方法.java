@@ -8,13 +8,16 @@ public class App{
 //------------------------
 //Boy.java(父类
 public class Boy{
-    public Boy()//重载一个无参的构造函数
+    public String num;
+	public Boy()//重载一个无参的构造函数
     {
         System.out.println("执行父类的无参构造");
 
     }
     public Boy(int num){
         System.out.println("执行父类的有参构造");
+    }
+    public void methodfu() {
     }
 }
 //------------------------
@@ -29,5 +32,14 @@ public class Tom extends Boy{
         //子类必须调用父类的构造方法，写了super则用，不写则赠送一个super但是只能调用无参
         //综上所述，super只能有一个，且位置也必须打头
 
+    }
+
+    public void method1() {
+    }
+
+    public void methodfu() {
+    }
+
+    public void methodzi() {
     }
 }
