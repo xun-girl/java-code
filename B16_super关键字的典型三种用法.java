@@ -6,9 +6,9 @@
 public class App{
     public static void main(String[] args){
         Tom p1 = new Tom();
-        System.out.println("-----------------分割线");
+        System.out.println("------------------分割线");
         p1.method1();
-        System.out.println("-----------------分割线");
+        System.out.println("------------------分割线");
         p1.methodzi();//子类对象p1调用子类的方法
     }
 } 
