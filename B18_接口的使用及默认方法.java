@@ -18,7 +18,7 @@ public interface Boy{
     }
 }
 //接口中的抽象方法 修饰符必须是固定的两个字——public abstract可以省略默认
-//Tom.java(接口的子类
+//Tom.java(接口的实现类
 public class Tom implements Boy{
     public  void metho1()
     {
