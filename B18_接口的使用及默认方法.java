@@ -16,6 +16,8 @@ public interface Boy{
     public default void metho2() {
         System.out.println("这是一个默认方法");//默认方法会被继承
     }
+
+    public abstract void work();
 }
 //接口中的抽象方法 修饰符必须是固定的两个字——public abstract可以省略默认
 //Tom.java(接口的实现类
