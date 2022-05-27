@@ -6,7 +6,7 @@ public class way{
         System.out.println(s.getStatic());//使用实例化对象名访问静态方法
         System.out.println(s.get());
     }
-    public static class S
+    public static class S//这种方法也叫类方法，可以直接通过类名去调用
     {
         private static int a;
         private int t=0;

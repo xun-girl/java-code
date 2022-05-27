@@ -16,7 +16,6 @@ public class App
 //Boy.java
 //将该类封装
 public class Boy {
-  
     private String name;
     private String idNum;
     private int age;
@@ -26,7 +25,7 @@ public class Boy {
     }
   
     public String getName(){
-       return name;
+       return name;//可写属性
     }
   
     public String getIdNum(){//IdNum的可读属性
