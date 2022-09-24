@@ -17,6 +17,6 @@ public class App {
 }
 
 class Person {
-  static int age;// this is a static variable
-  int height;// this is a instance variable
+  static int age;// define a static variable
+  int height;// define a instance variable
 }

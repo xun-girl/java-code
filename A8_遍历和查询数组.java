@@ -10,7 +10,6 @@ public class App {
     in.close();// 用完记得关闭
     int a = count(target, arr);
     System.out.print(target + "出现的次数为" + a + "次");
-
   }
 
   // 为了保证程序的之间的低耦合性 这里选用自定一个函数进行
